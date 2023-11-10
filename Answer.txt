@@ -1,0 +1,17 @@
+Broad Answers that are not refined.
+---
+M1. Microtubules are composed of α- and β-tubulin subunits that assemble into protofilaments, with 13 protofilaments forming the wall of the hollow microtubule structure. They display polarity with distinct (+) and (-) ends.
+
+M2. Microtubules assemble from microtubule organizing centers (MTOCs) like the centrosome. Tubulin dimers add preferentially to the (+) end. Microtubule dynamics involve phases of growth and rapid shortening due to gaining or losing a GTP cap.
+
+M3. Important microtubule structures include cilia, flagella, the mitotic spindle, and axonal microtubules. Cilia use microtubule sliding for motility; flagella propel cells; the mitotic spindle segregates chromosomes; axonal microtubules transport organelles.
+
+M4. Kinesins move toward the (+) end of microtubules, transporting organelles. Dyneins move toward the (-) end and also transport cargo when working with dynactin. Different kinesins have distinct cellular roles.
+
+M5. Intermediate filaments provide structural integrity to cells and tissues. There are multiple classes: keratins in epithelia, desmin in muscle, neurofilaments in neurons, and nuclear lamins. Mutations cause diseases.
+
+M6. The three cytoskeletal systems interact, for example in intracellular transport and cell migration. Microtubules and actin work together in growth cones. Cdc42 coordinates actin and microtubules during cell polarity.
+
+M7. Experimental techniques to study microtubules and intermediate filaments include immunofluorescence, FRAP, isolation of microtubule motors, and analysis of mutants.
+
+To summarize, knowledge of the cytoskeleton is important for careers in biotechnology and bioinformatics because these proteins carry out fundamental processes in cells and underlie the basis for many human diseases.
