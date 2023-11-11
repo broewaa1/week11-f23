@@ -1,0 +1,21 @@
+Not Complete Answer(s) | Cell Biology
+M1. Structure of Microtubules:
+Microtubules are cylindrical polymers of α- and β-tubulin heterodimers, which align in parallel to form 13 protofilaments, creating a polar structure with distinct plus (+) and minus (-) ends. This polarity is crucial for their biological functions and for the directional transport of cellular cargo.
+
+M2. Microtubule Assembly Mechanisms:
+Microtubules nucleate at microtubule organizing centers (MTOCs) and grow by adding α- and β-tubulin dimers, primarily at the (+) end. GTP hydrolysis drives dynamic instability, characterized by alternating phases of growth (polymerization) and shrinkage (depolymerization), which is essential for microtubule function in cellular processes.
+
+M3. Functions of Microtubule-Based Structures:
+Microtubules form the backbone of cilia and flagella, enabling cell motility, and compose the mitotic spindle, which is critical for chromosome segregation during cell division. In neurons, microtubules support axonal transport, moving organelles and vesicles essential for neuronal function.
+
+M4. Microtubule Motor Proteins:
+Kinesins and dyneins are motor proteins that move along microtubule tracks, with kinesins generally moving toward the (+) end and dyneins toward the (-) end. They are integral for transporting organelles, vesicles, and other cellular components, and are vital for processes such as mitosis and meiosis.
+
+M5. Intermediate Filaments:
+Intermediate filaments, including keratins, desmin, neurofilaments, and nuclear lamins, provide mechanical support for cells and tissues, maintaining cellular integrity. They are less dynamic than microtubules and actin filaments and are involved in cell adhesion, nuclear positioning, and damage response.
+
+M6. Coordination of Cytoskeletal Elements:
+Cytoskeletal systems, including microtubules, actin filaments, and intermediate filaments, interact to facilitate intracellular transport, cell division, and migration. For instance, growth cones in developing neurons use both actin and microtubules for navigation and elongation.
+
+M7. Experimental Techniques:
+Techniques such as immunofluorescence microscopy allow visualization of cytoskeletal structures, while fluorescence recovery after photobleaching (FRAP) can measure the dynamics of these proteins. Isolation of motor proteins and genetic analysis of mutants provide insights into their specific cellular roles.

@@ -15,3 +15,5 @@ M6. The three cytoskeletal systems interact, for example in intracellular transp
 M7. Experimental techniques to study microtubules and intermediate filaments include immunofluorescence, FRAP, isolation of microtubule motors, and analysis of mutants.
 
 To summarize, knowledge of the cytoskeleton is important for careers in biotechnology and bioinformatics because these proteins carry out fundamental processes in cells and underlie the basis for many human diseases.
+
+----
